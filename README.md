@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20developer%20at%20App.ed;Contributed%20to%201500+%2B%20servers%20inside%20Discord;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=ffff&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20developer%20at%20App.ed;Contributed%20to%201500+%2B%20servers%20inside%20Discord;5+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=ffff&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/MarcelCronje">MarcelCronje</a></h3>
@@ -18,18 +18,9 @@
 
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
       <td>
          <a href="https://github.com/marcelcronje"> <img src="https://komarev.com/ghpvc/?username=marcelcronje&style=for-the-badge&color=brightgreen"> </a>
       </td>
@@ -48,7 +39,7 @@ Support me on KoFi:
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,nodejs,react,angular"> </a> </p>
+<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,github,postman,mysql,css,sass,html,js,nodejs,react,angular"> </a> </p>
 
 ## My Stats:
 <p align="center">
