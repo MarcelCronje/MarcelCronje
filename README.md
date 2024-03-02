@@ -8,22 +8,9 @@
 <a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarcelCronje?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/marcelcronje"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/marcelcronje?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/marcelcronje"> <img src="https://komarev.com/ghpvc/?username=marcelcronje&style=for-the-badge&color=brightgreen"> </a>
  </p>
  
-## Profile Views
-
-
-  <table>
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/marcelcronje"> <img src="https://komarev.com/ghpvc/?username=marcelcronje&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
-
 ## What I'm Doing
 
 - 🔭 Frontend Developer at App.ed
