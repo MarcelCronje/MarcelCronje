@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=0969DA&random=false&width=440&height=45&lines=Frontend+Web+And+App+Developer+At+App.ed;5+%2B+Years+Of++Coding+Experience;Experienced+UI%2FUX+Designer;Always+Building%2FLearning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarcelCronje?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
