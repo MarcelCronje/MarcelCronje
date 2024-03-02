@@ -1,7 +1,7 @@
 ## Introduction
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20developer%20at%20App.ed;5+%2B%20years%20of%20coding%20experience;Experienced%20UI%2FUX%20Designer;&font=Fira%20Code&center=true&width=700&height=45&color=0969da&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20web%20and%20app%20developer%20at%20App.ed;5+%2B%20years%20of%20coding%20experience;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=0969da&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/MarcelCronje">MarcelCronje</a></h3>
