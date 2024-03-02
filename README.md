@@ -11,7 +11,8 @@
 
    <a href="https://github.com/marcelcronje"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/marcelcronje?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
-   <a href="https://github.com/marcelcronje"> <img src="https://komarev.com/ghpvc/?username=marcelcronje&style=for-the-badge&color
+   <a href="https://github.com/marcelcronje"> <img src="https://komarev.com/ghpvc/?username=marcelcronje&style=for-the-badge&color=236ad3"> </a>
+ </p>
  
 ## What I'm Doing
 
