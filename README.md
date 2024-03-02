@@ -1,5 +1,5 @@
 ## Introduction
-<p>
+<p align="left">
 <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20developer%20at%20App.ed;Contributed%20to%201500+%2B%20servers%20inside%20Discord;5+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=0969da&pause=1000&size=25" /></a>
 </p>
 
