@@ -8,7 +8,7 @@
    <a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarcelCronje?color=236ad3&style=for-the-badge&labelcolor=236ad3&logo=star"/></a>
    <a href="https://github.com/marcelcronje"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/marcelcronje?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-<a href="https://github.com/DenverCoder1?tab=followers">
+<a href="https://github.com/MarcelCronje?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MarcelCronje?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/marcelcronje"><img src="https://komarev.com/ghpvc/?username=marcelcronje&style=for-the-badge&color=236ad3"></a>
  </p>
