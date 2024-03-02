@@ -39,7 +39,7 @@ Support me on KoFi:
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,github,gitlab,postman,mysql,css,sass,gulp,html,js,nodejs,react,angular"> </a> </p>
+<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman,StackOverflow,mysql,css,sass,gulp,html,js,nodejs,react,angular"> </a> </p>
 
 ## My Stats:
 <p align="center">
