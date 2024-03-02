@@ -21,15 +21,10 @@
 
 - 🔭 Frontend Developer at App.ed
 - 🌱 Learning Node.js & building frontend projects
-- 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
-
-Support me on KoFi:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman,StackOverflow,mysql,css,sass,gulp,html,js,nodejs,react,angular"> </a> </p>
+<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman,mysql,css,sass,gulp,html,js,ts,nodejs,react,angular"> </a> </p>
 
 ## My Stats:
 <p align="center">
