@@ -6,11 +6,13 @@
 <p align="left">
    <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    <a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarcelCronje?color=B8B92B&style=for-the-badge&labelcolor=236ad3&logo=star"/></a>
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarcelCronje?color=236ad3&style=for-the-badge&labelcolor=236ad3&logo=star"/></a>
    <a href="https://github.com/marcelcronje"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/marcelcronje?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-   <a href="https://github.com/marcelcronje"> <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/> </a>
+<a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MarcelCronje?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/marcelcronje"><img src="https://komarev.com/ghpvc/?username=marcelcronje&style=for-the-badge&color=236ad3"></a>
  </p>
- 
+
 ## What I'm Doing
 
 - 🔭 Frontend Developer at App.ed
