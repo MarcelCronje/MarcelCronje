@@ -33,18 +33,18 @@
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/marcelcronje"> <img src="https://komarev.com/ghpvc/?username=marcelcronje&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
 
 ## What I'm Doing
 
-- 🔭 Working on ChatCool (Bot)
-- 🌱 Learning Node.js & more
+- 🔭 Frontend Developer at App.ed
+- 🌱 Learning Node.js & building frontend projects
 - 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
 
-Support ChatCool on KoFi:
+Support me on KoFi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
