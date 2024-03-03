@@ -24,7 +24,7 @@
 
 ## Languages And Tools:
 
-<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman,mysql,css,sass,gulp,html,js,ts,nodejs,react,angular"> </a> </p>
+<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman,figma,xd,photoshop,html,css,sass,gulp,js,ts,nodejs,mysql,react,angular,"> </a> </p>
 
 ## My Stats:
 <p align="center">
