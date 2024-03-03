@@ -17,12 +17,12 @@
    </a>
  </p>
 
-## What I'm Doing
+## What I'm Currently Doing:
 
 - 🔭 Frontend Developer at App.ed
 - 🌱 Learning Node.js & building frontend projects
 
-## Languages and Tools
+## Languages And Tools:
 
 <p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman,mysql,css,sass,gulp,html,js,ts,nodejs,react,angular"> </a> </p>
 
@@ -31,7 +31,7 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MarcelCronje&hide_border=true&show_icons=true&count_private=true&theme=radicalx&bg_color=151515">
 </p>
 
-## Activity On GitHub
+## Activity On GitHub:
 
 <p align="center">
   <a href="https://github.com/MarcelCronje">      
