@@ -35,6 +35,6 @@
 
 <p align="center">
   <a href="https://github.com/MarcelCronje">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelCronje&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelCronje&theme=dark&hide_border=true&stroke=236ad3"/>
 </a> 
 </p>
