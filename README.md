@@ -38,3 +38,11 @@
   <img title="Activity On GitHub" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MarcelCronje&count_private=true&theme=react&border_radius=10&stroke=236ad3" alt="streak stats"/>
   </a> 
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
