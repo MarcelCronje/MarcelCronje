@@ -28,13 +28,13 @@
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=MarcelCronje&hide_border=true&show_icons=true&count_private=true&theme=radicalx&bg_color=151515">
+<img title="My Stats" height="200px" src="https://github-readme-stats-salesp07.vercel.app/api?username=marcelcronje&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </p>
 
 ## Activity On GitHub:
 
 <p align="center">
   <a href="https://github.com/MarcelCronje">
-  <img title="stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MarcelCronje&count_private=true&theme=react&border_radius=10&stroke=236ad3" alt="streak stats"/>
+  <img title="Activity On GitHub" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MarcelCronje&count_private=true&theme=react&border_radius=10&stroke=236ad3" alt="streak stats"/>
   </a> 
 </p>
