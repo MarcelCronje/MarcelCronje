@@ -38,3 +38,9 @@
   <img title="Activity On GitHub" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MarcelCronje&count_private=true&theme=react&border_radius=10&stroke=236ad3" alt="streak stats"/>
   </a> 
 </p>
+
+## Used Languages:
+
+<p align="center">
+<img title="Used Languages" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=marcelcronje&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</p>
