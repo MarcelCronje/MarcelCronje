@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=0969DA&random=false&width=440&height=45&lines=Frontend+Web+And+App+Developer+At+App.ed;5+%2B+Years+Of++Coding+Experience;Experienced+UI%2FUX+Designer;Always+Building%2FLearning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="left">
+<p align="center">
 <!--<a href="https://www.youtube.com/c/MarcelCronje" target="_blank"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
    <a href="https://www.linkedin.com/in/marcel-cronje-73b37b238/" target="_blank"><img alt="LinkedIn" title="Connect With Me On LinkedIn" src="https://img.shields.io/badge/-LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://codepen.io/MarcelCronje" target="_blank"><img alt="Codepen" title="Check My Codepens" src="https://img.shields.io/badge/-Codepen-555555?style=for-the-badge&logo=codepen&logoColor=white"/></a>
