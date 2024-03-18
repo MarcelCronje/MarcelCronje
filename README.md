@@ -8,7 +8,7 @@
    <a href="https://www.linkedin.com/in/marcel-cronje-73b37b238/" target="_blank"><img alt="LinkedIn" title="Connect With Me On LinkedIn" src="https://img.shields.io/badge/-LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://codepen.io/MarcelCronje" target="_blank"><img alt="Codepen" title="Check My Codepens" src="https://img.shields.io/badge/-Codepen-555555?style=for-the-badge&logo=codepen&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/marcel-cronje-73b37b238/" target="_blank"><img alt="Facebook" title="Check My Facebook" src="https://img.shields.io/badge/-Facebook-236ad3?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-   <a href="https://github.com/MarcelCronje?tab=repositories&sort=stargazers">
+   <a href="https://github.com/MarcelCronj?tab=repositories&sort=stargazers">
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarcelCronje?color=236ad3&style=for-the-badge&labelcolor=236ad3&logo=star"/></a>
    <a href="https://github.com/marcelcronje?tab=followers">
    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/marcelcronje?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
