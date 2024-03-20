@@ -20,7 +20,7 @@
 ## What I'm Currently Doing:
 
 - 🔭 Frontend Developer at App.ed
-- 🌱 Learning Node.js & building frontend projects
+- 🌱 Currently learning Node.js / React & building frontend projects
 
 ## Languages And Tools:
 
