@@ -18,7 +18,6 @@
  </p>
 
 ## What I'm Currently Doing:
-
 - 🔭 Frontend Developer at App.ed
 - 🌱 Currently learning Node.js / React & building frontend projects
 
