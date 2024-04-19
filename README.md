@@ -37,7 +37,6 @@
 </p>
 
 ## My Contributions:
-
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
