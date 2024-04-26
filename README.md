@@ -18,7 +18,7 @@
  </p>
 
 ## What I'm Currently Doing:
-- 🔭 Frontend Developer at App.ed
+- 🔭 Frontend Developer at App.ed and Freelancer / Contractor at Patcom Solutions
 - 🌱 Currently learning Node.js / React & building frontend projects
 
 ## Languages And Tools:
