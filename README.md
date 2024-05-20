@@ -2,7 +2,7 @@
 <h3 align="left">Hey there, I'm <a href="https://github.com/MarcelCronje">Marcel Cronje👋</a></h3>
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=0969DA&random=false&width=440&height=45&lines=Frontend+Web+And+App+Developer+At+App.ed;5+%2B+Years+Of++Coding+Experience;Experienced+UI%2FUX+Designer;Always+Building%2FLearning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=0969DA&random=false&width=440&height=45&lines=Frontend+Web+And+App+Developer+At+App.ed;4+%2B+Years+Of++Coding+Experience;Experienced+UI%2FUX+Designer;Always+Building%2FLearning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
