@@ -19,7 +19,7 @@
 
 ## What I'm Currently Doing:
 - 🔭 Frontend Developer at App.Ed and Freelancer / Contractor at Patcom Solutions
-- 🌱 Currently learning Node.js / React & building frontend projects
+- 🌱 Currently learning C# / ASP.NET MVC & building frontend projects
 
 ## Languages And Tools:
 <p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,blank,git,blank,npm,blank,bitbucket,blank,azure,blank,github,blank,gitlab,blank,postman,blank,figma,blank,xd,blank,photoshop,blank,html,blank,css,blank,sass,blank,less,blank,gulp,blank,bootstrap,blank,js,blank,ts,blank,nodejs,blank,mysql,blank,react,blank,angular,blank,"> 
