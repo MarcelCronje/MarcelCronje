@@ -22,7 +22,7 @@
 - 🌱 Currently learning C# / ASP.NET MVC & building frontend projects
 
 ## Languages And Tools:
-<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,blank,git,blank,npm,blank,bitbucket,blank,azure,blank,github,blank,gitlab,blank,postman,blank,figma,blank,xd,blank,photoshop,blank,html,blank,css,blank,sass,blank,less,blank,gulp,blank,bootstrap,blank,js,blank,ts,blank,nodejs,blank,mysql,blank,react,blank,angular,blank,cs,blank,dotnet"> 
+<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,blank,git,blank,npm,blank,bitbucket,blank,azure,blank,github,blank,gitlab,blank,postman,blank,figma,blank,xd,blank,photoshop,blank,html,blank,css,blank,sass,blank,less,blank,gulp,blank,bootstrap,blank,js,blank,ts,blank,nodejs,blank,mysql,blank,react,blank,angular,blank,cs,blank,dotnet,blank,codepen"> 
 </a> 
 </p>
 
