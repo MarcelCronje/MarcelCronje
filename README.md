@@ -18,7 +18,7 @@
  </p>
 
 ## What I'm Currently Doing:
-- 🔭 Frontend Developer at App.Ed and Freelancer / Contractor at Patcom Solutions
+- 🔭 Full-stack Developer at King Price Insurance and Freelancer / Contractor at Always Infinite
 - 🌱 Currently learning C# / ASP.NET MVC & building frontend projects
 
 ## Languages And Tools:
