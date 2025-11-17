@@ -40,16 +40,10 @@
 
 ## My Contributions:
 <div align="center">
-    <!-- Light Mode -->
-  <img 
-    src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
-    alt="snake eating my contributions" 
-  />
+   <!-- Light Mode -->
+  <img src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 
   <!-- Dark Mode -->
-  <img 
-    src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" 
-    alt="snake eating my contributions" 
-  />
+  <img src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   <br/><br/><br/>
 </div>
