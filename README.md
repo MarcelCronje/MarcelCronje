@@ -1,8 +1,7 @@
-
-<h3 align="left">Hey there, I'm <a href="https://github.com/MarcelCronje">Marcel Cronje👋</a></h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=236ad3&text=Hey%20there,%20I'm%20Marcel%20Cronje👋&fontColor=ffffff&fontAlign=50&fontSize=48&animation=fadeIn" />
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=0969DA&random=false&width=900&height=60&lines=Frontend+Web+And+App+Developer+At+Always+Infinite;6%2B+Years+Of+Coding+Experience;Experienced+UI%2FUX+Designer;Always+Building%2FLearning+New+Things" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=0969DA&random=false&width=900&height=60&lines=Frontend+Web+And+App+Developer+At+Always+Infinite;6%2B+Years+Of+Coding+Experience;Experienced+UI%2FUX+Designer;Always+Building%2FLearning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,13 +21,14 @@
 - 🌱 Currently learning NodeJS / building frontend projects
 
 ## Languages And Tools:
-<p align="left"> <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,blank,git,blank,npm,blank,bitbucket,blank,azure,blank,github,blank,gitlab,blank,postman,blank,figma,blank,xd,blank,photoshop,blank,html,blank,css,blank,sass,blank,less,blank,gulp,blank,bootstrap,blank,js,blank,ts,blank,nodejs,blank,mysql,blank,react,blank,angular,blank,cs,blank,dotnet,blank,codepen"> 
-</a> 
+<p align="left"> 
+   <a href="https://github.com/marcelcronje"><img src="https://skillicons.dev/icons?i=vscode,blank,git,blank,npm,blank,bitbucket,blank,azure,blank,github,blank,gitlab,blank,postman,blank,figma,blank,xd,blank,photoshop,blank,html,blank,css,blank,sass,blank,less,blank,gulp,blank,bootstrap,blank,js,blank,ts,blank,nodejs,blank,mysql,blank,react,blank,angular,blank,cs,blank,dotnet,blank,codepen"> 
+   </a> 
 </p>
 
 ## My Stats:
 <p align="center">
-<img title="My Stats" height="200px" src="https://github-readme-stats-salesp07.vercel.app/api?username=marcelcronje&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelcronje&theme=github_dark" /> 
 </p>
 
 ## Activity On GitHub:
@@ -46,4 +46,16 @@
      <img alt="github-snake" src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake.svg" />
   </picture>
   <br/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelcronje&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
+
+
+
+
+
+
+
+
+
+
