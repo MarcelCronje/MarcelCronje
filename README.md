@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=236ad3&text=Hey%20there,%20I'm%20Marcel%20Cronje👋&fontColor=ffffff&fontAlign=50&fontSize=48&animation=fadeIn" />
 
 <p align="left">
-   <img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=0969DA&random=false&width=900&height=60&lines=Frontend+Web+And+App+Developer+At+Always+Infinite;6%2B+Years+Of+Coding+Experience;Experienced+UI%2FUX+Designer;Always+Building%2FLearning+New+Things" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=roboto&size=30&pause=1000&color=0969DA&random=false&width=900&height=60&lines=Frontend+Web+And+App+Developer+At+Always+Infinite;6%2B+Years+Of+Coding+Experience;Experienced+UI%2FUX+Designer;Always+Building%2FLearning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
