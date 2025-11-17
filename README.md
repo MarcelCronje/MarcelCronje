@@ -45,9 +45,9 @@
      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake.svg" />
      <img alt="github-snake" src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake.svg" />
   </picture>
-  <br/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelcronje&layout=compact&theme=transparent&hide_border=true" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <br/><br/><br/>
 </div>
 
 
