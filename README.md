@@ -40,6 +40,6 @@
 
 ## My Contributions:
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake.svg" />
+   <img alt="Dark snake" src="https://raw.githubusercontent.com/MarcelCronje/MarcelCronje/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
