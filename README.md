@@ -47,7 +47,6 @@
   </picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelcronje&layout=compact&theme=transparent&hide_border=true" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <br/><br/><br/>
 </div>
 
 
